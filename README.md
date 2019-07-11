@@ -67,3 +67,5 @@ The θ wave changes are relatively small, the α wave decreases, and the β wave
 9. If the gesture operations are used to perform complex operations in the same system, it is necessary to clearly define the implementation of various functions, and try to avoid mutual interference and cause confusion.
 10. put something with useful information in front of the user, not decorations.
 11. Try to take natural operation methods and reduce the user's physical load.
+### supplyment:
+comptibility problems: oculus, leap motion, gamespad, emotiv OPC
